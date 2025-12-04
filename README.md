@@ -76,7 +76,3 @@ https://github.com/itefixnet/cwpass/issues
 ## License
 
 See LICENSE file for details.
-
----
-
-© 2002-2025 itefix.net
