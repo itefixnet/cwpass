@@ -62,16 +62,8 @@ The password store remains fully compatible with Linux and macOS versions of `pa
 
 ## Links
 
-- **cwpass homepage**: https://itefix.net/cwpass
-- **cwpass repository**: https://github.com/itefixnet/cwpass
 - **pass homepage**: https://www.passwordstore.org/
 - **pass repository**: https://git.zx2c4.com/password-store/
-
-## Support
-
-Support and issue tracking are handled via GitHub Issues:
-
-https://github.com/itefixnet/cwpass/issues
 
 ## License
 
